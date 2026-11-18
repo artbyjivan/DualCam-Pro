@@ -1,0 +1,6 @@
+{
+  "name": "DualCam Pro",
+  "description": "Professional multi-camera video and photography studio with simultaneous 9:16 portrait and 16:9 landscape dual recording from a single live camera session.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
